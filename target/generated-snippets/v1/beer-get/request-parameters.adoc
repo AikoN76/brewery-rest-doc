@@ -1,7 +1,0 @@
-|===
-|Parameter|Description
-
-|`+isRed+`
-|Is the Beer red query param
-
-|===
